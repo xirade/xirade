@@ -10,6 +10,6 @@
 ![React](https://img.shields.io/badge/-React-172727?style=for-the-badge&logo=react&logoColor=42C0FB)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirade&layout=compact)](https://github.com/xirade?tab=repositories)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xirade&show_icons=true&theme=merko)
