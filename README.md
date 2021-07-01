@@ -1,6 +1,6 @@
 ![Header](https://github.com/xirade/xirade/blob/main/assets/xi.png)
 
-## I'm beginner Web Developer
+## I'm Front-end Developer
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-Flutter-172727?style=for-the-badge&logo=flutter&logoColor=0BB5FF)
