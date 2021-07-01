@@ -1,4 +1,4 @@
-![Header](https://github.com/xirade/xirade/blob/main/assets/xi.png)
+![Header](https://www.codewars.com/users/xirade/badges/large)
 
 ## I'm Front-end Developer
 
