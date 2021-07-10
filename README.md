@@ -1,15 +1,13 @@
-[![Header](https://www.codewars.com/users/xirade/badges/large)](https://www.codewars.com/users/xirade)
+<h1 align=center>I'm Front-end Developer</h1>
+<div align=center><a href=https://www.codewars.com/users/xirade><img src=https://www.codewars.com/users/xirade/badges/large></a></div>
 
-## I'm Front-end Developer
+<p align=center><a href="https://github.com/xirade?tab=repositories"><img src="https://camo.githubusercontent.com/83fa125a4bc0925b61eabd3ce99f8fdf0f200a46e82371e3c12e4f61e1959518/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d586972616465266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xirade&amp;layout=compact" style="max-width:100%;"></a></p>
 
-### Languages and tools
-![Flutter](https://img.shields.io/badge/-Flutter-172727?style=for-the-badge&logo=flutter&logoColor=0BB5FF)
-![Dart](https://img.shields.io/badge/-Dart-172727?style=for-the-badge&logo=dart&logoColor=0D4F8B)
-![Javascript](https://img.shields.io/badge/-Javascript-172727?style=for-the-badge&logo=Javascript&logoColor=C3E4ED)
-![Vue](https://img.shields.io/badge/-Vue-172727?style=for-the-badge&logo=V&logoColor=5F9EA0)
-![React](https://img.shields.io/badge/-React-172727?style=for-the-badge&logo=react&logoColor=42C0FB)
+<p align=center><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f440e14358fc083bfcd1445eb925a36fbaf3839646e7f6475a4441a9f75e5566/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5869726164652673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/f440e14358fc083bfcd1445eb925a36fbaf3839646e7f6475a4441a9f75e5566/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5869726164652673686f775f69636f6e733d74727565267468656d653d6d65726b6f" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Xirade&amp;show_icons=true&amp;theme=merko" style="max-width:100%;"></a></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xirade&layout=compact)](https://github.com/xirade?tab=repositories)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xirade&show_icons=true&theme=merko)
+<h3 align=center>Languages and tools</h3>
+<div align=center>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/252e69d43fcedf5295000652cacc09f52462085b60d44cc4fa44d056a89e4708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d433345344544"><img src="https://camo.githubusercontent.com/252e69d43fcedf5295000652cacc09f52462085b60d44cc4fa44d056a89e4708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d433345344544" alt="Javascript" data-canonical-src="https://img.shields.io/badge/-Javascript-172727?style=for-the-badge&amp;logo=Javascript&amp;logoColor=C3E4ED" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/92bae054f79c93f00a68c335044b1e1187d0e8b057a696659b8a68dba433245d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d56266c6f676f436f6c6f723d354639454130"><img src="https://camo.githubusercontent.com/92bae054f79c93f00a68c335044b1e1187d0e8b057a696659b8a68dba433245d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d56266c6f676f436f6c6f723d354639454130" alt="Vue" data-canonical-src="https://img.shields.io/badge/-Vue-172727?style=for-the-badge&amp;logo=V&amp;logoColor=5F9EA0" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/65a524cafb423cd85fdb6aae782922efcd037447133c647edd7a80535f8b8d39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d343243304642"><img src="https://camo.githubusercontent.com/65a524cafb423cd85fdb6aae782922efcd037447133c647edd7a80535f8b8d39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3137323732373f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d343243304642" alt="React" data-canonical-src="https://img.shields.io/badge/-React-172727?style=for-the-badge&amp;logo=react&amp;logoColor=42C0FB" style="max-width:100%;"></a></p>
+</div>
